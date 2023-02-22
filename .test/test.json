@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "app.zophop.debug",
-    "sha256_cert_fingerprints":
-    ["6B:FD:37:00:46:04:06:07:20:1B:DF:FB:B6:E0:8E:B7:76:B5:22:F4:B2:0A:18:18:C0:EC:FD:FC:1D:AD:74:A3"]
-  }
-}]
